@@ -8,6 +8,12 @@ The project demonstrates a complete analytics workflow — from raw data ingesti
 
 This project is designed to showcase Python, SQL, and Power BI skills in a practical, resume-ready format.
 
+## Dashboard Screenshots 
+![Dashboard1](images/dashboard3.jpeg)
+![Dashboard2](images/dashboard2.jpeg)
+![Dashboard3](images/dashboard1.jpeg)
+
+
 ## 🎯 Project Objectives
   - Clean and transform raw expense data using Python
   - Store processed data in a relational database (PostgreSQL)
