@@ -1,9 +1,9 @@
 # expense-tracker-powerbi
 Personal expense analysis with Python, PostgreSQL, and Power BI dashboards
-# 📊 Smart Expense Tracker with Spending Insights
+# 📊 Personal Expense Tracker with Spending Insights
 ## 📌 Project Overview
 
-The Smart Expense Tracker with Spending Insights is an end-to-end data analytics project that analyzes personal expense data to uncover spending patterns and trends.
+The Personal Expense Tracker with Spending Insights is an end-to-end data analytics project that analyzes personal expense data to uncover spending patterns and trends.
 The project demonstrates a complete analytics workflow — from raw data ingestion and cleaning to structured storage and interactive dashboard visualization.
 
 This project is designed to showcase Python, SQL, and Power BI skills in a practical, resume-ready format.
@@ -23,7 +23,7 @@ This project is designed to showcase Python, SQL, and Power BI skills in a pract
   - DAX
 
 ## 📂 Project Structure
-  Smart-Expense-Tracker/
+  Personal-Expense-Tracker/
     │
     ├── data/
     │   ├── raw_expenses.csv
