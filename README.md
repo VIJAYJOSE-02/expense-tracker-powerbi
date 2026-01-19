@@ -29,7 +29,7 @@ This project is designed to showcase Python, SQL, and Power BI skills in a pract
   - DAX
 
 ## 📂 Project Structure
-  Personal-Expense-Tracker/
+    Personal-Expense-Tracker/
     │
     ├── data/
     │   ├── raw_expenses.csv
